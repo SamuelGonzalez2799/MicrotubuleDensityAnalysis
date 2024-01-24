@@ -25,7 +25,8 @@ This script requires some add-ons including:
 Use the sample images along with the code to try it in your own system. To improve the quality of the analysis, try adjusting mt_threshold and cell_threshold until the code appears to be behaving for your images. Of note, due to the nature of this time of band-pass filtering, the analysis will never be perfect. Instead, however, the goal is to have it look decent and be consistent across images. 
 
 Of note, this code was used for some publications from the Gardner lab including: 
--https://www.biorxiv.org/content/10.1101/2022.06.07.495114v1.abstract 
+
+https://www.biorxiv.org/content/10.1101/2022.06.07.495114v1.abstract 
 
 ## Contributing
 
