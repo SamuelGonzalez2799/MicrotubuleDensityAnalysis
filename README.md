@@ -22,7 +22,7 @@ This script requires some add-ons including:
 
 ## Usage
 
-Use the sample images along with the code to try it in your own system. To improve the quality of the analysis, try adjusting mt_threshold and cell_threshold until the code appears to be behaving for your images. Of note, due to the nature of this time of band-pass filtering, the analysis will never be perfect. Instead, however, the goal is to have it look decent and be consistent across images. 
+Use the sample images along with the code to try it in your own system. To improve the quality of the analysis, try adjusting mt_threshold and cell_threshold until the code appears to be behaving for your images. Of note, due to the nature of this time of band-pass filtering, the analysis will never be perfect. Instead, however, the goal is to have it look decent and be consistent across images. The output of this script will be an excel file that tracks the mt-threshold and cell-threshold for each image as well as the total MT lenght, median MT lenght, mean MT length, std dev of the MT length and the MT density (which is the useful output for analysis; it gives the fraction of the cell area covered by the Microtubules). 
 
 Of note, this code was used for some publications from the Gardner lab including: 
 
