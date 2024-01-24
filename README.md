@@ -28,17 +28,7 @@ Of note, this code was used for some publications from the Gardner lab including
 
 https://www.biorxiv.org/content/10.1101/2022.06.07.495114v1.abstract 
 
-## Contributing
 
-We welcome contributions to the code and we will try to make adjustment/suggestions in a timely manner.
-
-If you have suggestions to improve the code, please fork the repository and create a pull request: 
-
-1. Fork the project
-2. Create your Feature Branch
-3. Commit your Change
-4. Push to the Branch
-5. Open a pull request
 
 
 ## Contact
