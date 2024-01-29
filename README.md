@@ -8,11 +8,13 @@ MATLAB by Mathworks
 
 ## Getting Started
 
+To get started, download this Github repository as a zipped file by downloading it from the "code" dropdown menu, unzip the file locally, and save it in an accessible location.  
+
 To use the code, download the script into the folder with your images to analyze. Of note, the script assumes that the images have been pre-processed. For processing, make sure that a maximum intensity projection of only the microtubule density within cells is performed. Then, make sure that the color is associated with the green channel (whether or not the fluorophore is actually green). Finally, make the image RGB. Lastly, ensure that all images have a similar name (ie. stacks0001, stacks 0002, etc) so that the code can more easily read in the seperate images. Finally, within the script, there are two parameters that may need to be changed: mt_threshold and cell_threshold. Ideally, these will be the same for all images in one set and across conditions. Sometimes, however, the performance (as measured by eye) can be poor and will require changing one or both of these parameters for different sets of cells. At the end of the day, the goal is to have the output look as close to the MT network seen with the input. 
 
 ## Prerequisites
 
-Ensure Matlab is operational on your device. This code was generated to work with MATLAB 2022b.
+Ensure Matlab is operational on your device. This code was generated to work with MATLAB 2022b and will likely work with newer versions of Matlab.
 
 ## Installation
 
